@@ -1,0 +1,9 @@
+/* CSS HSL */
+:root {
+    --prussian-blue: hsla(221, 26%, 21%, 1);
+    --davys-gray: hsla(220, 8%, 36%, 1);
+    --mint-cream: hsla(113, 31%, 95%, 1);
+    --melon: hsla(11, 84%, 81%, 1);
+    --bittersweet: hsla(8, 100%, 68%, 1);
+    --vermilion: hsla(2, 84%, 63%, 1);
+}
